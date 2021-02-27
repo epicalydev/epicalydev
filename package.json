@@ -1,0 +1,14 @@
+{
+  "name": "epicaly",
+  "version": "1.0.0",
+  "description": "Shadows",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "shadows"
+  ],
+  "author": "epicaly",
+  "license": "ISC"
+}
